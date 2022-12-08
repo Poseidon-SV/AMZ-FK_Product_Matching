@@ -47,5 +47,5 @@ In this programme you have to input the product name from the given product list
 ![Screenshot (2224)](https://user-images.githubusercontent.com/87477923/206463290-887a3a35-d0b9-4139-9c9e-a695b08af93c.png)
 
 ### 3. Result
-![Screenshot (2227)](https://user-images.githubusercontent.com/87477923/206463308-8f845c3a-3f88-49c3-afaf-983a10894ebe.png)
+![Screenshot (2227)](https://user-images.githubusercontent.com/87477923/206476111-711686c3-61a3-4530-b74a-2c20bd905a66.png)
 
